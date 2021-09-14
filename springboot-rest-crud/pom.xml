@@ -13,7 +13,7 @@
 	<artifactId>springboot-rest-crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-rest-crud</name>
-	<description>Implementing CRUD REST APIs with Spring Boot &amp; H2 In-memory Database</description>
+	<description>Implement CRUD REST APIs with Spring Boot &amp; H2 In-memory Database</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
